@@ -1,0 +1,21 @@
+
+
+#wrapper{
+    overflow: auto;
+    height: 300px;
+    width:60%;
+    margin:30px auto;
+}
+h1{
+    text-align:center;
+    
+}
+
+form{
+    margin:30px auto;
+}
+
+#message{
+    width:50%;
+    margin: 0 auto;
+}
